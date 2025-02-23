@@ -12,8 +12,8 @@
 
 Check out some example videos of personalized storytelling:
 
-[![Fact Example](https://github.com/gi6rgi/narratoon/blob/main/examples/fact_trains_preview.jpg)](https://github.com/gi6rgi/narratoon/blob/main/examples/fact_trains_example.mp4)  
-[![Story Example](https://github.com/gi6rgi/narratoon/blob/main/examples/story_night_preview.jpg)](https://github.com/gi6rgi/narratoon/blob/main/examples/story_night_example.mp4)  
+▶️ [Fact Example Video](https://github.com/gi6rgi/narratoon/blob/main/examples/fact_trains_example.mp4)  
+▶️ [Story Example Video](https://github.com/gi6rgi/narratoon/blob/main/examples/story_night_example.mp4)
 
 ---
 

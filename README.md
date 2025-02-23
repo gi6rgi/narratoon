@@ -69,3 +69,14 @@ Run the service:
 ```
 
 ---
+
+## 📌 TODO
+
+- [ ] **User-Friendly Chat Interaction** – Develop an intuitive chat-based interface for seamless and engaging user interaction.
+- [ ] **Animate Character Movements** – Improve the fluidity and realism of character gestures and expressions.
+- [ ] **Blinking Animation** – Add natural blinking to enhance character realism.
+- [ ] **Stable Environment Motion Generation** – Reintroduce and stabilize background animations for a more immersive experience.
+- [ ] **Automatic Speaker Gender Detection** – Implement logic to determine the speaker's gender and select an appropriate voice automatically.
+- [ ] **Voice Cloning** – Enable the ability to clone a parent's voice for a more personalized storytelling experience.
+
+---

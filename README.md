@@ -1,7 +1,5 @@
 # Narratoon
 
-![Narratoon Logo](https://github.com/gi6rgi/narratoon/blob/main/assets/logo.png)
-
 ## 🚀 Personalized AI Storytelling for Kids
 
 **Narratoon** is an innovative AI-powered storytelling service that brings personalized characters to life through interactive video content. Designed to captivate children’s imagination, Narratoon tailors stories, facts, and educational content based on their interests, helping them explore new ideas and navigate challenges through engaging narratives.

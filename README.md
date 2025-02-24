@@ -54,6 +54,17 @@ https://github.com/user-attachments/assets/caac938b-912f-49a4-9577-688485e3acde
 
 ---
 
+## 📌 TODO
+
+- [ ] **User-Friendly Chat Interaction** – Develop an intuitive chat-based interface for user interaction.
+- [ ] **Animate Character Movements** – Improve the fluidity and realism of character gestures and expressions.
+- [ ] **Blinking Animation** – Add natural blinking to enhance character realism.
+- [ ] **Stable Environment Motion Generation** – Reintroduce and stabilize background animations for a more immersive experience.
+- [ ] **Automatic Speaker Gender Detection** – Implement logic to determine the speaker's gender and select an appropriate voice automatically.
+- [ ] **Voice Cloning** – Enable the ability to clone a parent's voice for a more personalized storytelling experience.
+
+---
+
 ## 📌 Installation & Setup
 
 Clone the repository and install dependencies:
@@ -68,15 +79,6 @@ Run the service:
  poetry run python main.py
 ```
 
----
-
-## 📌 TODO
-
-- [ ] **User-Friendly Chat Interaction** – Develop an intuitive chat-based interface for seamless and engaging user interaction.
-- [ ] **Animate Character Movements** – Improve the fluidity and realism of character gestures and expressions.
-- [ ] **Blinking Animation** – Add natural blinking to enhance character realism.
-- [ ] **Stable Environment Motion Generation** – Reintroduce and stabilize background animations for a more immersive experience.
-- [ ] **Automatic Speaker Gender Detection** – Implement logic to determine the speaker's gender and select an appropriate voice automatically.
-- [ ] **Voice Cloning** – Enable the ability to clone a parent's voice for a more personalized storytelling experience.
+⚠️ **Disclaimer:** This repository is the result of a one-day hackathon, and I’m planning to continue its development soon :)
 
 ---
